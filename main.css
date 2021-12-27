@@ -1,0 +1,116 @@
+.navbar {
+    position: relative;
+    z-index: 1;
+}
+
+.nav-link {
+    text-transform: uppercase;
+    margin-right: 30px;
+    color: black;
+}
+
+.navbar-brand {
+    color:white !important;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.jumbotron {
+    background-image: url(images/poto4.jpg);
+    background-size: cover;
+    height: 600px;
+    margin-top: -75px;
+    text-align: center;
+}
+
+.jumbotron .display-4 {
+    color:white;
+    text-align: center;
+    margin-top: 140px;
+    font-size: 60px;
+}
+
+.jumbotron .display-4 span {
+    font-weight: bold;
+}
+
+.jumbotron a {
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.jumbotron-follow {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 200px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+.tulisan {
+    color: red;
+}
+
+.carousel-item {
+    height: 600px;
+}
+
+.tombol {
+    border-radius: 15px;
+}
+
+.carousel-caption h5 {
+    color:white;
+}
+
+.section-footer h5 {
+    color: black;
+}
+
+.section-footer a {
+    color: navy;
+}
+
+.tombol2 {
+    text-align: center;
+}
+
+.card-deck a {
+    text-align: center;
+}
+
+.judul {
+    font-weight: bolder;
+}
+
+.card {
+    margin-left: 30px;
+}
+
+.article .card-link{
+    margin-bottom:2;
+}
+
+.link {
+    margin-left: 40px;
+}
+
+.network {
+    padding-top: 30px;
+}
+
+.harga {
+    padding-right: 20px;
+}
+
+.logo {
+    margin-right: 15px;
+    color: white;
+}
+
+
+.caption {
+    padding-top: 40px;
+}
